@@ -1,12 +1,12 @@
-## Привет всем 👋
-### Обо мне
-Я Андрей, начинающий фронтенд-разработчик. Без опыта работы, но с готовностью и желанием этот опыт получить. Знаю и применял в учебных проектах HTML, CSS, JavaScript, Git, немного знаком с React.
+## Hi there 👋
+### About me
+My name Andrey, I'm begginer frontent-devoloper. I have no work experience, but I'm ready and willing to get this experience. I know and have used HTML, CSS, JavaScript, Git in training projects, a little familiar with React.
 
-Ищу удаленную работу из-за особенностей здоровья.
+I'm looking for remote work due to health reasons.
 
-### Высшее образование
-Обучался в ПГУ (Пензенский государственный университет)
-на фаультете Информатики и вычислительной техники.
+### Higher education
+Studied at PSU (Penza State University)
+at the Faculty of Informatics and Computer Science.
 
-### Дополнительное образование
-Дополнительно проходил курсы по профессии Фронтенд-разработчик на Хекслете, кроме этого изучал отзывчивый веб-дизайн на freeCodeCamp и JS на learn.javascript
+### Additional Education
+Additionally, I took courses in Frontend Development on Hexlet, besides that I studied Responsive Web Design  on freeCodeCamp and JS on learn.javascript.
